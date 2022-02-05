@@ -20,6 +20,27 @@ public class Main
         double doubleQuotient;
         double doubleModulo;
 
+        int numFamilyKids = 3;
+        System.out.println("There are " + numFamilyKids + " kids in my family");
+
+        boolean isRaining = true;
+        System.out.println("It is raining is " + isRaining);
+
+        double gasPrice = 3.3;
+        System.out.println("Current gas prices are " + gasPrice);
+
+        int favNumber = 10;
+        System.out.println("My favorite number is " + favNumber);
+
+        double shoeSize = 10.5;
+        System.out.println("My shoe size is " + shoeSize);
+
+        int birthMonth = 5;
+        System.out.println("My birth month number is " + birthMonth);
+
+        String fullName = "Alexander Michael Brooksbank";
+        System.out.println("My full name is " + fullName);
+
         intSum = intOperandA + intOperandB;
         System.out.println("The sum of " + intOperandA + " and " + intOperandB + " is " + intSum + ".");
 
